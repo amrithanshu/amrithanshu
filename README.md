@@ -1,7 +1,7 @@
 ## # 👋 Hi, I'm Amrithanshu Kesoju
 
-Developer with expertise in motion data analytics, system analytics and cloud-based ML workflows. I bring 1.5+ years of experience skilled in Python, C++, R, SQL, AWS and strong experience in ETL automation, forecasting, NLP pipelines and data validation. Handson in extracting behavioral features, building POCs, demos, custom integrations and interactive visualization (Streamlit, PowerBI, Looker) to solve with end-to-end solution engineering.
----
+**Developer with expertise in motion data analytics, system analytics and cloud-based ML workflows. I bring 1.5+ years of experience skilled in Python, C++, R, SQL, AWS and strong experience in ETL automation, forecasting, NLP pipelines and data validation. Handson in extracting behavioral features, building POCs, demos, custom integrations and interactive visualization (Streamlit, PowerBI, Looker) to solve with end-to-end solution engineering.
+**---
 
 ## 🔍 What I Work On
 
