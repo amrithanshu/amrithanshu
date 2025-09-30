@@ -1,7 +1,6 @@
 ## # 👋 Hi, I'm Amrithanshu Kesoju
 
-I'm a Data Scientist & Developer with 3+ years of experience in building intelligent, cloud-native applications that solve real-world problems in **finance, healthcare**, and **investment management**. I specialize in **predictive modeling, NLP**, and **microservices on AWS**, leveraging tools like Python, SQL, Docker, and Airflow.
-
+Developer with expertise in motion data analytics, system analytics and cloud-based ML workflows. I bring 1.5+ years of experience skilled in Python, C++, R, SQL, AWS and strong experience in ETL automation, forecasting, NLP pipelines and data validation. Handson in extracting behavioral features, building POCs, demos, custom integrations and interactive visualization (Streamlit, PowerBI, Looker) to solve with end-to-end solution engineering.
 ---
 
 ## 🔍 What I Work On
