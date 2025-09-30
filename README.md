@@ -7,8 +7,8 @@ I'm a Data Scientist & Developer with 3+ years of experience in building intelli
 ## 🔍 What I Work On
 
 - 🧠 **Machine Learning & AI**: Time-series forecasting, recommender systems, generative AI with LLMs, NLP (NER, topic modeling, sentiment analysis)
-- ☁️ **Cloud & Data Engineering**: AWS Lambda, S3, EC2, Redshift, DynamoDB | CI/CD, Apache Airflow, Docker
-- 📊 **Analytics & Dashboards**: Tableau, Power BI, Streamlit apps
+- ☁️ **Cloud & Data Engineering**: AWS Lambda, S3, EC2, Redshift, DynamoDB | CI/CD, Apache Airflow, Docker, GitLab
+- 📊 **Analytics & Dashboards**: Tableau, Power BI, Streamlit apps, Looker
 - 🔗 **Microservices & APIs**: FastAPI, asynchronous Python, REST API design & testing with Postman
 
 ---
@@ -38,22 +38,17 @@ I'm a Data Scientist & Developer with 3+ years of experience in building intelli
 **Languages**: Python, SQL, R, C++  
 **ML/AI**: Scikit-Learn, PyTorch, Transformers, NLP  
 **Cloud**: AWS (Lambda, S3, Redshift, EC2), GCP, Azure ML  
-**DevOps**: Docker, Kubernetes, Jenkins, CI/CD  
+**DevOps**: Docker, GitLab, Jenkins, CI/CD  
 **Data Tools**: Airflow, Power BI, Tableau, Streamlit  
 **Databases**: PostgreSQL, MongoDB, DynamoDB, Elasticsearch  
 
 ---
 
-## 📊 GitHub Stats
-
-![Amrithanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
 
 ---
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](https://linkedin.com/in/amrithanshu)
 - 📫 anshukesoju@gmail.com
 Hi there 👋
 
